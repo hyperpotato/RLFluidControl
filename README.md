@@ -2,6 +2,8 @@
 reinforcement learning for active fluid control.
 
 ## Dependencies
+CFD solver Lilypad is written in Processing by Dr. Gabriel Weymouth, and can be found: https://github.com/weymouth/lily-pad
+
 Processing from https://processing.org/download/
 
 Python Packages: TensorFlow 1.x (1.13+ suggested), numpy
